@@ -15,4 +15,4 @@
 > Vous trouverz ici les liens et informations utils pour votre formation.
 
 - [**Nomades NPM Library**](https://github.com/nomades-ateliers/nomades-ateliers): Contient les wrapper de librairie dont vous aurez besoin pour developper vos application.
-- **Student Profil**: VOus trouverz sur votre profil git dans le dossier `./docs` une liste de liens et documentation complémentaires.
+- **Student Profil**: Vous trouverz sur votre profil git dans le dossier `./docs` une liste de liens et documentation complémentaires.
