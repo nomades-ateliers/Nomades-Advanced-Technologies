@@ -1,8 +1,6 @@
 # <img src="https://avatars3.githubusercontent.com/u/41572941?s=200&v=4" width="20px"> Nomades Advanced Technologies
 > FORMATIONS DIPLOMANTES DANS LES METIERS DU WEB
 
-
-# Introduction:
 Ce repository presente le fonctionnement du compte Github de Nomades. Vous y trouverez toutes une série d'informations qui vous permetterons de pouvoir bénéficier pleinement des formations.
 
 - [Profils étudiant](#profils-étudiant)
@@ -14,10 +12,10 @@ Pour pouvoir bénéficier de cet espace de travail, l'élève doit poséder un c
 
 
 ### Creation d'un profil git student sur Nomades Classroom 
-> Pour créer un profil student et suivre les formation Nomades, l'élève doit faire une demande pour recevoir une invitation:
-- Créez un nouvelle issue sur ce repository.
-  - Ceci pour connaitre le nom d'utilisateur Github de l'élève.
-- L'enseignant peut alors créer le compte de l'élève sir Github Classroom et l'élève recevra une invitation à rejoindre la team Nomades pour créer votre profil student.
+Pour créer un profil student et suivre les formation Nomades, l'élève doit faire une demande pour recevoir une invitation:
+- L'élève doit créez un nouvelle issue sur ce repository.
+  - Ceci pour connaitre son nom d'utilisateur Githu.
+- L'enseignant peut alors créer le compte de l'élève sur Github Classroom et l'élève recevra une invitation à rejoindre la team Nomades pour créer votre profil student.
 
 > L'installation des profils sur le compte Github de Nomades peut prendre plusieurs minutes.
 Quand la création de votre profil student est terminée, vous pouvez le cloner le sur votre ordinateur avec les commande git habituels ([liste des commandes git basic](https://gist.github.com/aquelito/8596717)).
