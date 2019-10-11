@@ -16,4 +16,4 @@ Le prof en charge de la formation doit être membre de la "Nomades Github Compan
 ## Ajouter un élève dans une Classroom
 Sur la page d'acceuil de la Classroom "Nomades Advanced Technologies Students"
 1. Cliquer sur l'onglet "settings" pour modifier la liste des utilisateurs (Roster management) 
-2. Envocer le lien de l'Assignments à l'élève concérné
+2. Envoyer le lien de l'Assignments à l'élève concérné
