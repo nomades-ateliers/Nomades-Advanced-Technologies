@@ -1,3 +1,5 @@
+# Création d'un compte élève pour formation JS ou Mobile
+
 # Utilisation de Firebase
 Les élève qui veulent/doivent utiliser FIrebase, devront utiliser le "wrapper" [Nomade-Firebase](https://github.com/nomades-ateliers/nomades-ateliers/tree/master/packages/firebase) pour pouvoir avoir une sauvegarde de leurs base de donnée. Sans quoi, après l'arichivage du projet, sa consultation en sera compromise.
 
