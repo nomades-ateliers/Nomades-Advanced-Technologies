@@ -19,7 +19,7 @@ Pour créer un profil student et suivre les formation Nomades, l'élève doit fa
 - L'enseignant peut alors créer le compte de l'élève sur Github Classroom et l'élève recevra une invitation à rejoindre la team Nomades pour créer votre profil student.
 
 > L'installation des profils sur le compte Github de Nomades peut prendre plusieurs minutes.
-Quand la création de votre profil student est terminée, vous pouvez le cloner le sur votre ordinateur avec les commande git habituels ([liste des commandes git basic](https://gist.github.com/aquelito/8596717)).
+Quand la création d'un profil student est terminée, l'étudiant peut cloner son profil sur son poste de travail avec les commande git habituels ([liste des commandes git basic](https://gist.github.com/aquelito/8596717)).
   
   
 ## Outils pour les élèves
