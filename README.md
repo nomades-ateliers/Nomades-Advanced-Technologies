@@ -3,6 +3,7 @@
 
 Ce repository presente le fonctionnement du compte Github de Nomades. Vous y trouverez toutes une série d'informations qui vous permetterons de pouvoir bénéficier pleinement des formations.
 
+- [Doc pour enseignant](https://github.com/nomades-ateliers/Nomades-Advanced-Technologies/blob/master/profs/README.md)
 - [Profils étudiant](#profils-étudiant)
 - [Outils pour les étèves](#outils-pour-les-élèves)
 
